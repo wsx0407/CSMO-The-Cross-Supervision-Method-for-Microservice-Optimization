@@ -1,0 +1,175 @@
+{
+  "AccountDao": [
+    "account"
+  ],
+  "CategoryDao": [
+    "category"
+  ],
+  "ItemDao": [
+    "item",
+    "inventory",
+    "lineitem"
+  ],
+  "Order": ["orders"],
+  "LineItem": ["lineitem"],
+  "OrderDao": [
+    "orders",
+    "orderstatus"
+  ],
+  "ProductDao": [
+    "product"
+  ],
+   "OrderFormController": [
+    "account",
+    "cart"
+  ],
+    "AccountValidator": [
+    "account"
+  ],
+  "OrderService": [
+    "orders"
+  ],
+   "UserSession": [
+    "account"
+  ],
+   "AddItemToCartController": [
+    "cart",
+    "item"
+  ],
+  "Cart": [
+    "item"
+  ],
+"CartItem": [
+    "item"
+  ],
+
+  "OrderValidator": [
+    "orders"
+  ],
+    "SqlMapAccountDao": [
+    "account",
+    "profile",
+    "signon"
+  ],
+    "SqlMapCategoryDao": [
+    "category"
+  ],
+    "SqlMapOrderDao": [
+    "orders",
+    "orderstatus",
+    "lineitem",
+    "sequence"
+  ],
+ "SqlMapProductDao": [
+    "product"
+  ],
+  "ListOrdersController": [
+    "orders"
+  ],
+    "SearchProductsController": [
+    "product"
+  ],
+    "SignonController": [
+    "account",
+    "product"
+  ],
+  "SignonInterceptor": [
+    "account"
+  ],
+ "ViewOrderController": [
+    "order"
+  ],
+   "ViewItemController": [
+    "item"
+  ],
+    "ViewCartController": [
+    "cart"
+  ],
+    "ViewProductController": [
+    "product"
+  ],
+ "SqlMapSequenceDao": [
+    "sequence"
+  ],
+
+   "Sequence": [
+    "sequence"
+  ],
+  "UpdateCartQuantitiesController": [
+    "cart"
+
+  ],
+
+  "ViewCategoryController": [
+    "category",
+    "product"
+  ],
+
+  "Product": [
+    "product"
+  ],
+
+"SqlMapItemDao": [
+    "item"
+  ],
+
+  "PetStoreImpl": [
+    "account",
+    "category",
+    "product",
+    "item",
+    "orders",
+    "orderstatus"
+  ],
+  "SendOrderConfirmationEmailAdvice": [
+    "account",
+    "orders"
+  ],
+  "OrderServiceClient": [],
+  "JaxRpcOrderService": [
+    "orders"
+  ],
+    "ViewOrderAction": [
+    "orders",
+    "account"
+  ],
+  "ViewItemAction": [
+    "item",
+    "product"
+  ],
+    "AccountFormController": [
+    "account",
+    "category",
+    "product"
+  ],
+   "AccountForm": [
+    "account"
+  ],
+  "ViewCategoryAction": [
+    "category",
+    "product"
+  ],
+    "ViewCartAction": [
+    "account",
+    "cart"
+  ],
+   "UpdateCartQuantitiesAction": [
+    "cart"
+  ],
+    "SignonAction": [
+    "account"
+  ],
+  "SecureBaseAction": [
+    "account"
+  ],
+    "SearchProductsAction": [
+    "product"
+  ],
+    "Item": [
+    "product"
+  ],
+  "Category":[
+    "category"
+  ]
+
+}

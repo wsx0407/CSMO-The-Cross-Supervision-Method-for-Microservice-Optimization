@@ -1,0 +1,7 @@
+supplier item
+product item
+item inventory
+orders orderstatus
+orders lineitem
+category product
+product item

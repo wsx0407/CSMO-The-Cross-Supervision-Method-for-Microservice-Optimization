@@ -1,0 +1,68 @@
+{
+  "TradeAppServlet": [
+    "accountprofileejb",
+    "accountejb",
+    "holdingejb",
+    "keygenejb",
+    "quoteejb",
+    "orderejb"
+  ],
+  "TradeServletAction": [
+    "accountprofileejb",
+    "accountejb",
+    "holdingejb",
+    "keygenejb",
+    "quoteejb",
+    "orderejb"
+  ],
+  "TradeDirect": [
+    "accountprofileejb",
+    "accountejb",
+    "holdingejb",
+    "keygenejb",
+    "quoteejb",
+    "orderejb"
+  ],
+  "KeySequenceDirect": [
+    "keygenejb"
+  ],
+  "PingJDBCRead2JSP": [
+    "quoteejb"
+  ],
+  "TradeConfigServlet": [
+    "quoteejb",
+    "accountejb",
+    "accountprofileejb",
+    "holdingejb",
+    "orderejb",
+    "keygenejb"
+  ],
+  "TradeAction": [
+    "quoteejb",
+    "accountejb",
+    "accountprofileejb",
+    "holdingejb",
+    "orderejb"
+  ],
+  "TradeBuildDB": [
+    "quoteejb",
+    "accountejb",
+    "accountprofileejb",
+    "holdingejb",
+    "orderejb",
+    "keygenejb"
+  ],
+  "PingJDBCWrite": [
+    "quoteejb"
+  ],
+  "PingJDBCRead": [
+    "quoteejb"
+  ],
+  "TestServlet": [
+    "quoteejb"
+  ],
+  "OrdersAlertFilter": [
+    "orderejb",
+    "accountejb"
+  ]
+}
